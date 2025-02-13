@@ -1,6 +1,19 @@
 ## Notation sur la base de données
 Dans cette base, nous avons environ **16 000 personnes**, et nous devons sélectionner **2 000 personnes** pour la campagne marketing.
 
+
+## Ciblage aléatoire
+
+L’objectif du projet est d’identifier les clients ayant le plus d’appétence de souscrire à nouveau un
+crédit, et leur proposer une offre afin qu’ils concrétisent cette souscription.
+Un ciblage simpliste peut être fait en tirant aléatoirement 2000 clients dans la base.
+Il est évident que ce ciblage ne donnera pas de résultat satisfaisant, il ne rentrera d’ailleurs
+logiquement pas dans la notation, mais il va permettre :
+• De se fixer une référence à dépasser par la suite en utilisant des techniques de ciblage de
+plus en plus perfectionnées
+• Et de bien maîtriser le processus de construction et de livraison du fichier au bon format
+afin de pouvoir en tester la performance
+
 ## Ciblage métier
 Le but est d'identifier la règle de sélection des **2 000 clients** les plus susceptibles de souscrire un nouveau crédit.
 
