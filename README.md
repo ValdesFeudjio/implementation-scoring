@@ -31,5 +31,10 @@ Le but de cette méthode est d'utiliser intégralement la statistique bivariée 
 les différentes étapes à executer sont :
 
 
+Le montant du credit actuel doit etre inferieur à 3000
+Ancienneté du dernier credit inferieur à 700 jours
+Le nombre de credit actuel est inférieur ou égal à 3
+La duréé du remboursement actuel doit est dans {2,3,5,6}
+Le montant du crédit total est inférieur à 10 000
 
 
