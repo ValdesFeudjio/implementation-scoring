@@ -1,3 +1,5 @@
+prof : jpkienner@jpkf.fr
+
 ## Notation sur la base de données
 Dans cette base, nous avons environ **16 000 personnes**, et nous devons sélectionner **2 000 personnes** pour la campagne marketing.
 
@@ -36,5 +38,9 @@ Ancienneté du dernier credit inferieur à 700 jours
 Le nombre de credit actuel est inférieur ou égal à 3
 La duréé du remboursement actuel doit est dans {2,3,5,6}
 Le montant du crédit total est inférieur à 10 000
+
+
+demo du prof
+Les valeurs tests 
 
 
